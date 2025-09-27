@@ -77,7 +77,7 @@ def logo():
  FACEBOOK  :     \033[1;97mShivaa Lodiwal 
  WHATAPP   :     \033[1;97m+918000032877
  FEATURE   :     \033[1;97mOLD CLONE 
- VERSION   :     \033[1;97mS27.3
+ VERSION   :     \033[1;97mS27.2
 -----------------------------------------
 \33[38;5;208mUse flight (airplane) mode before use
 \033[1;97m-----------------------------------------
@@ -120,7 +120,7 @@ def rmenu1():
 			id=code+rngx
 			if "1" in rcd:psd=[id,rngx,id[:6],id[:7],id[:8],id[5:]]
 			if "2" in rcd:psd=[id,rngx,id[5:],"khan123"]
-			if "3" in rcd:psd=[id[-9:]]
+			if "3" in rcd:psd=[rngx,id[:8],id[:7],id[:9],id,"57273200","59039200","57575751"]
 			tonxoys.submit(graphrm,id,psd,tid)
 ############------[RANDOM USN SYSTEM BOSS EMRAN EHC]-------#########
 lk=[]
