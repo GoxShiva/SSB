@@ -77,7 +77,7 @@ def logo():
  FACEBOOK  :     \033[1;97mShivaa Lodiwal 
  WHATAPP   :     \033[1;97m+918000032877
  FEATURE   :     \033[1;97mOLD CLONE 
- VERSION   :     \033[1;97mS27.4
+ VERSION   :     \033[1;97mS27.5
 -----------------------------------------
 \33[38;5;208mUse flight (airplane) mode before use
 \033[1;97m-----------------------------------------
@@ -164,4 +164,3 @@ def graphrm(id,psd,tid):
 	lop+=1
 Main()
 #-৳-৳-৳-৳
-
