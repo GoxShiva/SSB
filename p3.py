@@ -74,8 +74,8 @@ def logo():
   Mb     dM Mb     dM   MM    ,9 
   P"Ybmmd"  P"Ybmmd"  .JMMmmmd9
 -----------------------------------------
- FACEBOOK  :     \033[1;97mShivaa Lodiwal 
- WHATAPP   :     \033[1;97m+918000032877
+ FACEBOOK  :     \033[1;97mSXXXX
+ WHATAPP   :     \033[1;97m+9180000XXXXX
  FEATURE   :     \033[1;97mOLD CLONE 
  VERSION   :     \033[1;97mS27.4
 -----------------------------------------
@@ -164,4 +164,5 @@ def graphrm(id,psd,tid):
 	lop+=1
 Main()
 #-৳-৳-৳-৳
+
 
